@@ -19,4 +19,8 @@ public class Student {
 	void print(){
 		int x = 100;
 	}
+	
+	void print2(){
+		int x = 100;
+	}
 }
