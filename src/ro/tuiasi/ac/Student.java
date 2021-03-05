@@ -23,4 +23,7 @@ public class Student {
 	void print2(){
 		int x = 100;
 	}
+	void print3(){
+		System.out.println("de implementat print3");
+	}
 }
