@@ -7,10 +7,14 @@ public class TestStudentApp {
 		//declares a student
 		Student s1 = new Student(10,"Popescu","Ionut");
 		Student s2 = new Student(10,"Ionescu","Raluca");
+		Teacher t1 = new Teacher();
+		
 		
 		System.out.println(s1);
 		s1.print3();
 		s2.print3();
+		
+		System.out.println(t1);
 		
 	}
 
