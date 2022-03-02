@@ -7,6 +7,7 @@ public class TestStudentApp {
 		//declares a student
 		Student s1 = new Student(10,"Popescu","Ionut");
 		Student s2 = new Student(10,"Ionescu","Raluca");
+		Student s3 = new Student(9,"ANC","Raluca");
 		Teacher t1 = new Teacher();
 		Teacher t2 = new Teacher(); //222
 		Teacher t3 = new Teacher(); //222
